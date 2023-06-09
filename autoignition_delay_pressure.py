@@ -8,7 +8,7 @@ pressure = np.linspace(1,5,9)   # Initial pressure in atm
 
 T = 1100    # Initial temperature in Kelvin
 
-species_dict = {'CH4':1, 'O2':2, 'N2':7.52}     # Species dictionary (Reactant side)
+species_dict = {'CH4':1, 'O2':2, 'N2':7.52}     # methane
 
 # Total time to run simulation
 simulation_time = 10    # seconds
